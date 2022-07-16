@@ -1,14 +1,8 @@
-import './App.css';
+import Paperbase from "./Paperbase";
 
 function App() {
 	return (
-		<div className="App">
-			<header className="App-header">
-				<p>
-					React
-				</p>
-			</header>
-		</div>
+		<Paperbase/>
 	);
 }
 
